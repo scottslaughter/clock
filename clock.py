@@ -1,5 +1,5 @@
 ##### Python Clock for Raspberry Pi 3B+
-##### scottslaughter
+##### https://github.com/scottslaughter/clock
 ##### reqires Python3
 ##### exit the clock by clicking or pressing ESC
 ##### clock style may be adjusted in the style section
